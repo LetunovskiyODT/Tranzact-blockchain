@@ -1,1 +1,3 @@
 # Tranzact-blockchain
+
+its all you needs to now...
